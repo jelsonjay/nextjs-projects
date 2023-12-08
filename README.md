@@ -1,2 +1,2 @@
-# vanilla-javascript-projects
-simple vanilla javascript projects
+# Nextjs Projects
+same nextjs projects
